@@ -1,15 +1,5 @@
 package main
 
-//"fmt"
-//"log"
-//"context"
-//"flag"
-//"time"
-
-//proto "howDeepTheRabbitHoleGoes/simple_chat_go_backend/proto"
-//
-//"google.golang.org/grpc/credentials/insecure"
-
 import (
 	"context"
 	"flag"
